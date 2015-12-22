@@ -1,0 +1,1 @@
+retrieves the most recently posted photo from Flickr every 7 seconds using the Flickr API.
